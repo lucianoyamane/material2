@@ -51,7 +51,3 @@ notify:
   webhooks:
     - url: https://us-central1-test-jperrott.cloudfunctions.net/circleCi
 
-general:
-  branches:
-    only:
-      - master
